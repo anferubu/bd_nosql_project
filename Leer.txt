@@ -1,0 +1,4 @@
+Para que corra la aplicación se deben estar ejecutando tres cosas distintas:
+- php artisan serve
+- npm run dev
+- mongod
